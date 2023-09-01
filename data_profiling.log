@@ -1,0 +1,9 @@
+2023-09-01 12:49:48,680 - INFO - START data_profiling =============================================
+2023-09-01 12:49:48,681 - INFO - START data_profiling Start Time = 2023-09-01 12:49:48
+2023-09-01 12:49:48,681 - INFO - data_profiling Step 0 - Initialize the configuration file parser
+2023-09-01 12:49:48,707 - INFO - data_profiling - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-01 12:49:56,507 - INFO - PERFORMANCE data_profiling The total process duration was:7.83
+2023-09-01 12:49:56,507 - INFO - PERFORMANCE data_profiling Stop Time = 2023-09-01 12:49:56
+2023-09-01 12:49:56,507 - INFO - PERFORMANCE data_profiling Low process duration less than 3 minutes:7.83
+2023-09-01 12:49:56,507 - INFO - PERFORMANCE data_profiling Performance optimization is optional
+2023-09-01 12:49:56,507 - INFO - END data_profiling =============================================
