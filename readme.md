@@ -1,12 +1,16 @@
 # Data Profiling - Produces Descriptive statistics for ANY Data!!! 
 
-![Code Logo](joe_logo.png)
+![Code Logo](code.png)
 
 ## LEVERAGE YDATA and PANDAS for data profiling !!! 
+
+![Developer Logo](developer.png)
 
 ## Description
 
 Welcome to the ** Data Profiling ** repository! This project demonstrates how to establish a Data Profiler that describes all of your data, finds anomalies, identifies missing data, builds correlations, historgrams and MUCH MORE !!!   
+
+![sample Logo](sample.png)
 
 ## Features
 
