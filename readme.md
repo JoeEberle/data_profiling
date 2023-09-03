@@ -4,13 +4,11 @@
 
 ## LEVERAGE YDATA and PANDAS for data profiling !!! 
 
-![Developer Logo](developer.png)
-
 ## Description
 
-Welcome to the ** Data Profiling ** repository! This project demonstrates how to establish a Data Profiler that describes all of your data, finds anomalies, identifies missing data, builds correlations, historgrams and MUCH MORE !!!   
+## Welcome to the ** Data Profiling ** repository! This project demonstrates how to establish a Data Profiler that describes all of your ## data, finds anomalies, identifies missing data, builds correlations, historgrams and MUCH MORE !!!   
 
-![sample Logo](sample.png)
+![Developer Logo](developer.png)
 
 ## Features
 
@@ -21,6 +19,11 @@ Welcome to the ** Data Profiling ** repository! This project demonstrates how to
 - Includes Correlation Heatmaps
 - Automate data profiling tasks 
 - Easily find and FIX problems EARLY in the Data onboarding workflows 
+
+
+![sample Logo](sample.png)
+
+
 
 ## Notebook Features
 
