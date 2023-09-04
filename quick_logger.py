@@ -104,7 +104,8 @@ def pvlog(log_level, log_string):
         tc.say(log_string)
 
     if speaking_steps:
-        tc.say(log_string)        
+        if log_string.find("Step") > -1:
+            tc.say(log_string)        
         
     if log_level == 'debug':
         logging.debug(log_string)  
