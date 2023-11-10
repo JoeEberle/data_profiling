@@ -59,8 +59,12 @@ def initialize_text_to_speech():
 def say(speech):
     Text_to_Speech = pyttsx3.init()
     Text_to_Speech.say(speech)
-    Text_to_Speech.runAndWait()         
-
+    Text_to_Speech.runAndWait()     
+    
+def print_say(speech):
+    print(speech) 
+    say(speech)
+     
 # Introduction - Overview of CSV to SQL Import Process Steps 
 def read_credits(): 
     Dialog = 'This Jupiter Notebook Was  : '
