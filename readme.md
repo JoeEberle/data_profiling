@@ -4,9 +4,12 @@ Data profiling provides descriptive statistics for **ANY** data
 
 ![Image image_filename](code.png)
 
-Welcome to the solution **Data Profiling** - an example for your projects
+**Data profiling** is crucial for comprehending the structure and quality of a dataset, helping analysts identify anomalies and inconsistencies that may affect analysis outcomes. By systematically examining variables, data types, and distributions, data profiling lays the groundwork for effective data cleaning, preprocessing, and modeling, ensuring accurate and reliable insights are derived. 
 
-Data profiling provides descriptive statistics for **ANY** data
+**Descriptive statistics** serve as a fundamental tool for data scientists to comprehend the characteristics of their datasets, enabling them to uncover patterns and trends. By summarizing key features such as central tendency and variability, descriptive statistics offer concise insights into the distribution of data, facilitating informed decision-making and hypothesis testing. Ultimately, their utilization empowers data scientists to extract meaningful interpretations and communicate findings effectively to stakeholders, driving informed actions and solutions.
+
+**Descriptive statistics** involve methods for summarizing and describing the main features of a dataset. This includes measures such as mean, median, and mode for central tendency, as well as measures like standard deviation and range for dispersion or spread. These statistics offer insights into the distribution, variability, and characteristics of the data, aiding in understanding and interpreting its underlying patterns and trends.
+
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +41,4 @@ To get started with the **Data Profiling** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](Data Profiling.png)  <br>![additional_image](desriptive_statistics.png)  <br>![additional_image](developer - Copy.png)  <br>![additional_image](variable_analysis.png)  <br>
+    ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](Data Profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
