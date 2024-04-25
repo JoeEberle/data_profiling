@@ -1,6 +1,6 @@
 
-# Data Profiling - Tells your EVERYTHING about your data.
-Tells your EVERYTHING about your data.
+# Data Profiling - Tells you **EVERYTHING** about your data.
+Tells you **EVERYTHING** about your data.
 
 ![Image image_filename](code.png)
 
