@@ -1,6 +1,6 @@
 
-# Data Profiling - Tells you **EVERYTHING** about your data.
-Tells you **EVERYTHING** about your data.
+# Data Profiling - Tells you **EVERYTHING** about your data. Descriptive statistics allows you to easily discover any issues in your data
+Tells you **EVERYTHING** about your data. Descriptive statistics allows you to easily discover any issues in your data
 
 ![Image image_filename](code.png)
 
