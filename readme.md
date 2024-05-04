@@ -13,7 +13,7 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
