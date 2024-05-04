@@ -21,9 +21,9 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each ptyhon function
+- **Self Testing** - Unit Testing for each function
 - **Easily Configurable** -easily modifyable with config.INI name value pairs
-- **Includes Talking Code** - The code explains itself.
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - enhanced python standard logging   
 - **Self Debugging** - enhanced python standard debugging
 - **Low Code - or - No Code** - Most solutions are under 50 lines of code
@@ -41,4 +41,4 @@ To get started with the **Data Profiling** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
+    ## Deliverables or Figures![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
