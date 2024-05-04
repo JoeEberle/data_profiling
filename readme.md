@@ -13,7 +13,9 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 
 ![Image image_filename](sample.png)
 
-## Features
+![Image image_filename]("solution_sign.png")
+
+## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
@@ -22,11 +24,11 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 ## Notebook Features
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
-- **Easily Configurable** -easily modifyable with config.INI name value pairs
+- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
 - **Includes Talking Code** - The code explains itself 
-- **Self Logging** - enhanced python standard logging   
-- **Self Debugging** - enhanced python standard debugging
-- **Low Code - or - No Code** - Most solutions are under 50 lines of code
+- **Self Logging** - Enhanced python standard logging   
+- **Self Debugging** - Enhanced python standard debugging
+- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
 ## Getting Started
@@ -36,9 +38,15 @@ To get started with the **Data Profiling** solution repository, follow these ste
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
-## https://github.com/JoeEberle/ -- josepheberle@outlook.com 
+
+## Github    
+## https://github.com/JoeEberle/ 
+
+## Email 
+## josepheberle@outlook.com 
+
     
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](variable_analysis.png)  <br>
+    ## Deliverables or Figures![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](variable_analysis.png)  <br>
