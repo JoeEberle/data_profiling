@@ -15,6 +15,13 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 
 ![Image image_filename](sample.png)
 
+## Getting Started
+To get started with the **Data Profiling** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
@@ -31,12 +38,8 @@ Tells you **EVERYTHING** about your data. Descriptive statistics allows you to e
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Getting Started
-To get started with the **Data Profiling** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
+## Deliverables or Figures
+ ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
     
 
 ## Github    
@@ -49,7 +52,4 @@ To get started with the **Data Profiling** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    
-## Deliverables or Figures
- ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
     
