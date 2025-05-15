@@ -58,13 +58,3 @@ To get started with the **Data Profiling** solution repository, follow these ste
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](correlation.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](data_profiling.png)  <br>![additional_image](descriptive statistics.png)  <br>![additional_image](descriptive_statistics.png)  <br>![additional_image](variable_analysis.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
